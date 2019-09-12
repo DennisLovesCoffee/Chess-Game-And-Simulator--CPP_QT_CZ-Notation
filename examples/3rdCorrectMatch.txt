@@ -1,0 +1,17 @@
+1. d2d4 d7d5
+2. c2c4 e7e6
+3. Jb1c3 Jg8f6
+4. Sc1g5 c7c5
+5. c4xd5 c5xd4
+6. Dd1xd4 Sf8e7
+7. e2e4 Jb8c6
+8. Dd4a4 e6xd5
+9. Sg5xf6 Se7xf6
+10. Jc3xd5 Sf6xb2
+11. Va1d1 Sc8d7
+12. Da4b3 Dd8a5+
+13. Vd1d2 Sb2e5
+14. Jg1f3 Sd7e6
+15. Db3xb7 Va8c8
+16. Jf3xe5 Jc6xe5
+17. Db7e7#

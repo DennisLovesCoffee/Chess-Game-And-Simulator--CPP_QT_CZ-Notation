@@ -1,0 +1,12 @@
+1. e4 e5
+2. d4 exd4
+3. c3 dxc3
+4. Sc4 cxb2
+5. Sxb2 Dg5
+6. Jf3 Dxg2
+7. Vg1 Sb4+
+8. Ke2 Dh3
+9. Sxf7+ Kd8
+10. Sxg7 Je7
+11. Jg5 d5
+12. Je6#
