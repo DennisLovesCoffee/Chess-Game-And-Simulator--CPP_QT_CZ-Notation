@@ -17,5 +17,3 @@
 ![](imgs/sachova_notace-page-001.jpg)
 ![](imgs/sachova_notace-page-002.jpg)
 
-# Authors
-- Dennis Vymer and Pavel Gos
